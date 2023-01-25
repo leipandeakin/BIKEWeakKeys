@@ -4,7 +4,7 @@ This is the supplimentary code used for our research paper entitled "Weak-Key An
 
 Please follow the below steps:
 
-1. The main folder (i.e., entitled - BIKE_Code) contains three sub-folders - i.e., `Key Generation`, `Encryption`, `Decoding`.
+1. The repository contains three sub-folders - i.e., `Key Generation`, `Encryption`, `Decoding`.
 
 2. For reproducibility, first of all, go to 'Key Generation' folder and run the 'Key_Gen_modified.m' [Note that, `r` and `w` parameters need to be set, the sample code sets `r = 10009` and `w = 142`]. This code will autiomatically save the corresponding keys in the same folder (i.e., as 'private_keys.txt' and 'public_keys.txt').
 
