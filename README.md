@@ -1,6 +1,6 @@
 # BIKEWeakKeys
 
-This is the supplimentary code used for our research paper entitled "_*Weak-Key Analysis for BIKE Post-Quantum Key Encapsulation Mechanism*_" (authored by Mohammad Reza Nosouhi, Syed W. Shah, Lei Pan, Yevhen Zolotavkin, Ashish Nanda, Praveen Gauravaram, Robin Doss)
+This is the supplimentary code used for our research paper entitled "*Weak-Key Analysis for BIKE Post-Quantum Key Encapsulation Mechanism*" (authored by Mohammad Reza Nosouhi, Syed W. Shah, Lei Pan, Yevhen Zolotavkin, Ashish Nanda, Praveen Gauravaram, Robin Doss)
 
 Please follow the below steps:
 
