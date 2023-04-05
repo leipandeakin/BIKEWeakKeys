@@ -7,6 +7,16 @@ This is the supplimentary code used for our research paper entitled "**Weak-Key 
 - Online ISSN: 1556-6021
 - Digital Object Identifier: 10.1109/TIFS.2023.3264153
 
+Please cite the paper as:
+```
+@article{nosouhi2023weak,
+  title={Weak-Key Analysis for BIKE Post-Quantum Key Encapsulation Mechanism},
+  author={Nosouhi, Mohammad Reza and Shah, Syed W and Pan, Lei and Zolotavkin, Yevhen and Nanda, Ashish and Gauravaram, Praveen and Doss, Robin},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  DOI={10.1109/TIFS.2023.3264153}
+}
+```
 
 Please follow the below steps:
 
