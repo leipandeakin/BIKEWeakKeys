@@ -8,9 +8,9 @@ This is the supplimentary code used for our research paper entitled "**Weak-Key 
 - Digital Object Identifier: 10.1109/TIFS.2023.3264153
 
 Please cite the paper as:
-```
+`
 Nosouhi, Mohammad Reza, Syed W. Shah, Lei Pan, Yevhen Zolotavkin, Ashish Nanda, Praveen Gauravaram, and Robin Doss. "Weak-Key Analysis for BIKE Post-Quantum Key Encapsulation Mechanism." IEEE Transactions on Information Forensics and Security. DOI:10.1109/TIFS.2023.3264153. (2023).
-```
+`
 ```
 @article{nosouhi2023weak,
   title={Weak-Key Analysis for BIKE Post-Quantum Key Encapsulation Mechanism},
