@@ -14,10 +14,11 @@ Nosouhi, Mohammad Reza, Syed W. Shah, Lei Pan, Yevhen Zolotavkin, Ashish Nanda, 
 
 ```
 @article{nosouhi2023weak,
-  title={Weak-Key Analysis for BIKE Post-Quantum Key Encapsulation Mechanism},
+  title={Weak-key analysis for {BIKE} post-quantum key encapsulation mechanism},
   author={Nosouhi, Mohammad Reza and Shah, Syed W and Pan, Lei and Zolotavkin, Yevhen and Nanda, Ashish and Gauravaram, Praveen and Doss, Robin},
   journal={IEEE Transactions on Information Forensics and Security},
   year={2023},
+  notes={In press},
   DOI={10.1109/TIFS.2023.3264153}
 }
 ```
